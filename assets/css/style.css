@@ -39,3 +39,37 @@ span {
 .third-width {
   width: 20%;
 }
+.food-menu div{
+  display: flex;
+  width: 90%;
+  padding-right:5px;
+  margin-left: 57px;
+
+}
+.item-text{
+  padding-bottom: 10px;
+  text-align:center;
+}
+.food-menu{
+  border-top: 3px solid green;
+
+}
+.footer__content{
+  display: inline-block;
+  padding-right: 100px;
+  margin-left: 60px;
+  text-decoration: none;
+}
+.footer__content a{
+  text-decoration: none;
+}
+.footer__title{
+  color: green;
+  text-align: center;
+}
+.footer-bottom{
+  color: white;
+  font-size: large;
+  text-align: center;
+  background-color: #0a9264;
+}
