@@ -1,0 +1,41 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+span {
+  color: green;
+}
+.flexcontainer {
+  display: flex;
+  margin-left: 5px;
+  padding: 5%;
+  margin-bottom: 10px;
+}
+.link-button {
+  text-decoration: none;
+  background-color: #0a9264;
+  color: white;
+  font-family: tahoma;
+  font-weight: 700;
+  padding: 7px;
+  border-radius: 5px;
+}
+#profileimage {
+  background-image: url(../image/family.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.99;
+}
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 50%;
+}
+.second-section-image {
+  width: 150%;
+}
+.third-width {
+  width: 20%;
+}
